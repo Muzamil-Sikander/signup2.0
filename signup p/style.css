@@ -1,0 +1,21 @@
+.all{
+    background-image: url(./background-2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.main{
+    text-align: center;
+    padding: 5px;
+    background-color: azure;
+    width:400px;
+    
+}
+
+.container{
+    margin: auto;
+}
+.inputs{
+    padding: 7px;
+   
+}
